@@ -1,0 +1,20 @@
+
+.img{
+   width: 40% ;
+   height: auto;
+   max-height: 103.172px;
+   max-width: 103.172px;
+    /* border: 1px solid black; */
+    margin: auto;
+    border-radius: 12px;
+    background-color: transparent;
+}
+
+.card1{
+    width: auto;
+    height: auto;
+}
+
+.card-title{
+    font-size: 20px;
+}

@@ -1,0 +1,41 @@
+.container,.row{
+    padding: 0 !important;
+}
+
+.btn{
+    position: fixed;
+    
+}
+
+.btn1{
+    left: 1.5%;
+    top: 50%;
+    z-index: 1;
+}
+
+.btn2{
+    right: 1.5%;
+    top: 50%;
+    z-index: 1;
+    
+}
+
+.btn1,.btn2{
+    background-color: #0b5dd769;
+    transition: transform 0.5s;
+    border-radius: 100%;
+}
+.btn1:hover,.btn2:hover{
+    transform: scale(1.5);
+    transition: transform 0.5s;
+    transition-delay:  0.1s;
+   
+    background-color: #0b5dd7;
+}
+
+.icono{
+    font-size: 50px;
+}
+
+
+/*botton*/
